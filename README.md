@@ -17,3 +17,5 @@ Works as in 1/13/2024
 How It Works
 I used Python and made it so you could inject an executor into roblox
 Whole process was annoying compiled it into a exe
+
+https://www.virustotal.com/gui/file/2af67362dbde0cdc8f3bb19f8878cd26631410ada770d246a13a53554f6bca1c
